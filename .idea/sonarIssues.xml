@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$MAVEN_REPOSITORY$/org/sunbird/analytics-job-driver/2.0/analytics-job-driver-2.0.jar!/org/ekstep/analytics/framework/DruidQueryModel.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/org/sunbird/analytics-job-driver/2.0/analytics-job-driver-2.0.jar!/org/ekstep/analytics/framework/IBatchModelTemplate.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/org/sunbird/analytics-job-driver/2.0/analytics-job-driver-2.0.jar!/org/ekstep/analytics/framework/fetcher/DruidDataFetcher.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/org/sunbird/analytics-job-driver/2.0/analytics-job-driver-2.0.jar!/org/ekstep/analytics/framework/util/DatasetExt.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/org/sunbird/analytics-job-driver/2.0/analytics-job-driver-2.0.jar!/org/ekstep/analytics/framework/util/JSONUtils.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/org/sunbird/batch-models/2.0/batch-models-2.0.jar!/org/ekstep/analytics/model/DruidOutput.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/org/sunbird/batch-models/2.0/batch-models-2.0.jar!/org/ekstep/analytics/util/Constants.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PracticeTest/src/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../TestScala/build.sbt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../TestScala/src/main/scala/JSONUtils.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../TestScala/src/main/scala/Sample.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Jenkinsfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/analytics-core/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/analytics-core/src/main/scala/org/ekstep/analytics/framework/Models.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/analytics-core/src/main/scala/org/ekstep/analytics/framework/conf/AppConf.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/analytics-core/src/main/scala/org/ekstep/analytics/framework/fetcher/DruidDataFetcher.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/analytics-core/src/main/scala/org/ekstep/analytics/framework/util/CommonUtil.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/analytics-core/src/main/scala/org/ekstep/analytics/framework/util/HadoopFileUtil.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/analytics-core/src/test/resources/application.conf">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/analytics-core/src/test/scala/org/ekstep/analytics/framework/TestDataFetcher.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/analytics-core/src/test/scala/org/ekstep/analytics/framework/fetcher/TestDruidDataFetcher.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/analytics-core/src/test/scala/org/ekstep/analytics/framework/util/TestCommonUtil.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/analytics-job-driver/dependency-reduced-pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sunbird-core-dataproducts/batch-models/src/main/scala/org/ekstep/analytics/job/JobExecutor.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sunbird-core-dataproducts/batch-models/src/main/scala/org/ekstep/analytics/model/DruidQueryProcessingModel.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sunbird-core-dataproducts/batch-models/src/main/scala/org/ekstep/analytics/util/DruidQueryUtil.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sunbird-core-dataproducts/batch-models/src/test/resources/application.conf">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sunbird-core-dataproducts/batch-models/src/test/scala/org/ekstep/analytics/model/BaseSpec.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sunbird-core-dataproducts/batch-models/src/test/scala/org/ekstep/analytics/model/TestDruidQueryProcessingModel.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sunbird-core-dataproducts/batch-models/src/test/scala/org/ekstep/analytics/updater/TestUpdateContentRating.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sunbird-core-dataproducts/batch-models/src/test/scala/org/ekstep/analytics/util/TestDruidQueryUtil.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sunbird-core-dataproducts/optional-master/test-reports/test_usage_metrics/2020-04-01.csv">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sunbird-data-pipeline/data-pipeline-flink/content-cache-updater/src/test/scala/org/sunbird/dp/fixture/EventFixture.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sunbird-data-pipeline/data-pipeline-flink/content-cache-updater/src/test/scala/org/sunbird/dp/spec/ContentUpdaterStreamTaskTest.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sunbird-data-pipeline/data-pipeline-flink/de-normalization/src/main/scala/org/sunbird/dp/denorm/type/DialcodeDenormalization.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sunbird-data-pipeline/data-pipeline-flink/dp-core/src/main/scala/org/sunbird/dp/core/cache/DataCache.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sunbird-data-pipeline/data-pipeline-flink/dp-core/src/main/scala/org/sunbird/dp/core/cache/RedisConnect.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sunbird-data-pipeline/data-pipeline-flink/dp-core/src/test/resources/base-test.conf">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sunbird-data-pipeline/data-pipeline-flink/dp-core/src/test/scala/org/sunbird/spec/CoreTestSpec.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sunbird-data-pipeline/data-pipeline/de-normalization/src/main/config/de-normalization.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sunbird-data-pipeline/data-pipeline/de-normalization/src/main/java/org/ekstep/ep/samza/service/DeNormalizationService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sunbird-data-pipeline/data-pipeline/de-normalization/src/main/java/org/ekstep/ep/samza/util/ContentDataCache.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sunbird-data-products/data-products/dependency-reduced-pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sunbird-data-products/data-products/src/main/resources/application.conf">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sunbird-data-products/data-products/src/main/scala/org/sunbird/analytics/job/report/AssessmentMetricsJob.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sunbird-data-products/data-products/src/main/scala/org/sunbird/analytics/job/report/AssessmentMetricsJobV2.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sunbird-data-products/data-products/src/main/scala/org/sunbird/analytics/job/report/BaseReportsJob.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sunbird-data-products/data-products/src/main/scala/org/sunbird/analytics/job/report/CourseMetricsJob.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sunbird-data-products/data-products/src/main/scala/org/sunbird/analytics/job/report/CourseMetricsJobV2.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sunbird-data-products/data-products/src/main/scala/org/sunbird/analytics/util/CourseUtils.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sunbird-data-products/data-products/src/main/scala/org/sunbird/analytics/util/TextBookUtils.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sunbird-data-products/data-products/src/test/resources/application.conf">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sunbird-data-products/data-products/src/test/scala/org/sunbird/analytics/job/report/TestAssessmentMetricsJobV2.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sunbird-data-products/data-products/src/test/scala/org/sunbird/analytics/model/report/TestTextbookProgressModel.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
